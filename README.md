@@ -6,7 +6,7 @@ Welcome to the official landing page of **Beyond Career** – a platform that’
 
 ## 🔗 Live Demo
 
-👉 **[Click here to visit the live site](https://your-deployment-url.com)**
+👉 **[Click here to visit the live site](https://assignment-02-psi.vercel.app/)**
 
 ---
 
@@ -18,11 +18,6 @@ Assignment/
 ├── index.html                  # Main HTML
 ├── style.css                   # CSS styles
 ├── script.js                   # JavaScript file
-├── assets/                     # Images/icons
-├── docs/                       # Documentation files
-│   ├── design-rationale.md
-│   ├── technical-documentation.md
-│   └── deployment-guide.md
 └── README.md                   # You're reading it!
 ```
 
@@ -71,8 +66,8 @@ Deployed via GitHub Pages:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/beyond-career-landing-page
-   cd Assignment
+   git clone https://github.com/laxmany9335/Assignment_02.git
+   cd Assignment_02
    ```
 
 2. Open `index.html` in your browser. No build tools required.
@@ -104,6 +99,6 @@ Deployed via GitHub Pages:
 
 **Created By:** Laxman Yadav  
 📧 Email: laxmany9335@gmail.com  
-🌐 Portfolio: [Coming Soon]
+🌐 Portfolio: https://port-folio-three-bay.vercel.app/
 
 > 🧠 “Beyond Career is ALL ABOUT YOUR DREAMS” — Let this landing page reflect that bold vision.
